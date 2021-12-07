@@ -1,4 +1,4 @@
-### Olá! Eu sou João 👋
+### Olá! Eu sou o João, seja bem-vindo! 👋
 
 <div align="center">
   <a href="https://github.com/j-dutra">
