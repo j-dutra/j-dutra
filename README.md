@@ -1,4 +1,4 @@
-### Olá! Eu sou o João, seja bem-vindo! 👋
+### Olá! Eu sou o João, sejam bem-vindos! 👋
 
 #
 <div> 
@@ -6,8 +6,8 @@
   <a href = "mailto:jdutra.eu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://t.me/J_dutra" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 </div>
-#
 
+#
 <div align="center">
   <a href="https://github.com/j-dutra">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=j-dutra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
