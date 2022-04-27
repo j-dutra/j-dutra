@@ -25,5 +25,5 @@
  
 ##
   
-<p align="center"><img src="https://badge42.herokuapp.com/api/stats/joluiz-d?cursus=42cursus&privacyEmail=true&privacyName=true"> </p>
+
 
