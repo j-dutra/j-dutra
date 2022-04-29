@@ -25,6 +25,8 @@
  
 ##
  42 Projects🥇 
+  
+ ### Projetos realizados no programa de formação da Escola 42 SP.
  <div>
   <a href="https://github.com/j-dutra/Libft_42sp"><img height="100" width="100" src="https://github.com/j-dutra/j-dutra/blob/main/42-pictures/libftm.png"></a>
   <a href="https://github.com/j-dutra/get_next_line_42sp"><img height="100" width="100" src="https://github.com/j-dutra/j-dutra/blob/main/42-pictures/get_next_linem.png"></a>
