@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/jdutra-" target="_blank"><img src="./img/linkedin.png"></a>
 
   <a href = "mailto:jdutra.eu@gmail.com" target="_blank"><img src="./img/email.png"></a>
-  <a href="https://t.me/J_dutra" target="_blank"><img src="./img/linkedin.png"></a>
+  <a href="https://t.me/J_dutra" target="_blank"><img src="./img/telegram.png"></a>
 </div>
 
 #
