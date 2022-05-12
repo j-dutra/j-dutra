@@ -2,9 +2,9 @@
 
 #
 <div> 
-  <a href="https://www.linkedin.com/in/jdutra-" target="_blank"></a>
-  <a href = "mailto:jdutra.eu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://t.me/J_dutra" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jdutra-" target="_blank"><img src=" img/linkedin.png"></a>
+  <a href = "mailto:jdutra.eu@gmail.com" target="_blank"><img src=" img/email.png"></a>
+  <a href="https://t.me/J_dutra" target="_blank"><img src=" img/telegram.png"></a>
 </div>
 
 #
