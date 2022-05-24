@@ -29,6 +29,13 @@
  42 Projects🥇 
   
  ### Projetos realizados no programa de formação da Escola 42 SP.
+  <p>
+    A 42 é uma escola de programação baseada em aprendizagem coletiva, onde você aprende ao mesmo tempo que ensina. Este processo é chamado de “peer-to-peer learning”, ou aprendizado entre pares, é um modelo de aprendizado no qual os participantes aprendem uns com os outros ao invés de um único professor. Isso exercita o pensamento crítico, trabalho em grupo, comunicação e senso de comunidade. Membros também avaliam uns aos outros e aprendem mais a cada feedback dado ou recebido de seus pares.
+
+Todos esse sistema é estruturado em volta de uma comunidade, desafios e gamificação. Você será desafiado a aprender por conta sem seguir um cronograma ao mesmo tempo que troca conhecimento.
+
+O currículo abrange linguagens fundamentais de programação, começando com C e extendendo para programação imperativa/funcional e orientada a objetos - algoritmos, inteligência artificial, gráficos, integração tecnológica, programação de sistema, rede e administrador do sistema, segurança e vírus, dados e base de dados e computação paralela. Existem diversos projetos e desafios disponíveis, podendo ser executados de acordo com a escolha do aluno.
+  </p>
  <div>
   <a href="https://github.com/j-dutra/Libft_42sp"><img height="100" width="100" src="https://github.com/j-dutra/j-dutra/blob/main/42-pictures/libftm.png"></a>
   <a href="https://github.com/j-dutra/get_next_line_42sp"><img height="100" width="100" src="https://github.com/j-dutra/j-dutra/blob/main/42-pictures/get_next_linem.png"></a>
