@@ -42,11 +42,10 @@ O currículo abrange linguagens fundamentais de programação, começando com C 
   <a href="https://github.com/j-dutra/ft_printf_42sp"><img height="100" width="100" src="https://github.com/j-dutra/j-dutra/blob/main/42-pictures/ft_printfm.png"></a>
   <a href=""><img height="100" width="100" src="https://github.com/j-dutra/j-dutra/blob/main/42-pictures/born2berootm.png"></a>
  </div>
-  
+
 #
- Programas & Bootcamps 
   
-## Programa Acelera_iCarros - Gama Academy
+### Programas & Bootcamps 
   
 
 
