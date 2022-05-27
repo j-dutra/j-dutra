@@ -45,8 +45,8 @@ O currículo abrange linguagens fundamentais de programação, começando com C 
   
 #
  Programas & Bootcamps 
-##
-  Programa Acelera_iCarros - Gama Academy
+  
+## Programa Acelera_iCarros - Gama Academy
   
 
 
