@@ -21,9 +21,10 @@
   <img align="center" alt="logotipo nodeJs" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <!--
   <img align="center" alt="logotipo typescript" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+  -->
   <img align="center" alt="logotipo Linux" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
 </div>
--->
+
  
 ##
  42 Projects🥇 
