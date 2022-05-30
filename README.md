@@ -8,11 +8,24 @@
 </div>
 
 #
-<div align="center">
+<center>
+  <table style="border:none;">
+    <tr>
+        <td><img heigth="100% auto;" align="left" src="https://github-readme-stats.vercel.app/api?username=j-dutra&theme=blueberry&include_all_commits=true&count_private=true"/></td>
+       <td><img width="410px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-dutra&layout=compact&theme=blueberry" /></td>
+    </tr>  
+  </table>
+</center> 
+
+
+
+
+
+<center>
   <a href="https://github.com/j-dutra">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=j-dutra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-dutra&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+  <img height="100 % auto" src="https://github-readme-stats.vercel.app/api?username=j-dutra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="410px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-dutra&layout=compact&langs_count=7&theme=dracula"/>
+</center>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="logotipo linguagem C" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
@@ -46,17 +59,7 @@ O currículo abrange linguagens fundamentais de programação, começando com C 
 #
   
 ### Programas & Bootcamps 
-  
-  
-  
-<center>
-  <table style="border:none;">
-    <tr>
-        <td><img heigth="100% auto;" align="left" src="https://github-readme-stats.vercel.app/api?username=j-dutra&theme=blueberry&include_all_commits=true&count_private=true"/></td>
-       <td><img width="410px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-dutra&layout=compact&theme=blueberry" /></td>
-    </tr>  
-  </table>
-</center>  
+ 
   
 
 
