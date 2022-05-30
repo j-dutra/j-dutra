@@ -23,8 +23,8 @@
 
 <div height="100% auto">
   <a href="https://github.com/j-dutra">
-  <img heigth="100% auto" src="https://github-readme-stats.vercel.app/api?username=j-dutra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img heigth="100% auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-dutra&layout=compact&langs_count=7&theme=dracula"/>
+  <img heigth="100% auto" width="50%" src="https://github-readme-stats.vercel.app/api?username=j-dutra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img heigth="100% auto" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-dutra&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   
