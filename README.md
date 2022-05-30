@@ -8,24 +8,9 @@
 </div>
 
 #
-<center>
-  <table style="border:none;">
-    <tr>
-        <td><img heigth="100% auto;" align="left" src="https://github-readme-stats.vercel.app/api?username=j-dutra&theme=blueberry&include_all_commits=true&count_private=true"/></td>
-       <td><img width="410px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-dutra&layout=compact&theme=blueberry" /></td>
-    </tr>  
-  </table>
-</center> 
 
-
-
-
-
-<div height="100% auto">
-  <a href="https://github.com/j-dutra">
-  <img heigth="100% auto" width="45%" src="https://github-readme-stats.vercel.app/api?username=j-dutra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img heigth="100% auto" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-dutra&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+| [![João L. Dutra GitHub stats](https://github-readme-stats.vercel.app/api?username=j-dutra&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=radical)](https://github.com/j-dutra?tab=repositories) | [![João L.Dutra most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=j-dutra&layout=compact&hide_border=true&theme=radical)](https://github.com/j-dutra?tab=repositories) |
+|:-:|:-:|
   
   
   
