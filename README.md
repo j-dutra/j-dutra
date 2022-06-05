@@ -1,31 +1,31 @@
-### Olá! Eu sou o João, sejam bem-vindos! 👋
+## Olá! Eu sou o João, sejam bem-vindos! 👋
 
-#
-<div> 
-  <a href="https://www.linkedin.com/in/jdutra-" target="_blank"><img height="48" width="48" src="./img/linkedin.png"></a>
-  <a href = "mailto:jdutra.eu@gmail.com" target="_blank"><img height="48" width="48" src="./img/email.png"></a>
-  <a href="https://t.me/J_dutra" target="_blank"><img height="48" width="48" src="./img/telegram.png"></a>
-</div>
+- Sou João, tenho 41 anos, pai de filhos lindos (amor ser pai).
+- Adoro cães.
+- Gosto de filmes, séries e animes.
+- Estudande de engenharia de software na 42 São Paulo, e Web FullStack em construção.
+- Atualmente programo e estudo as linguagens de programação C, e JavaScript.
+- Estudando React JS, e Node JS
+- Conhecimento em Git/Github, HMTL5, CSS3, Linux
 
-#
-| [![João L. Dutra GitHub stats](https://github-readme-stats.vercel.app/api?username=j-dutra&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=radical)](https://github.com/j-dutra?tab=repositories) | [![João L.Dutra most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=j-dutra&layout=compact&hide_border=true&theme=radical)](https://github.com/j-dutra?tab=repositories) |
-|:-:|:-:|
 
-  
+### Tecnologia que utilizo e estudo atualmente
 <div style="display: inline_block"><br>
-  <img align="center" alt="logotipo linguagem C" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+    <img align="center" alt="logotipo linguagem C" height="40" width="50"                 src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">  
+  
   <img align="center" alt="logotipo HTML5" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+  
   <img align="center" alt="logotipo CSS3" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+  
   <img align="center" alt="logotipo Js" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  
   <img align="center" alt="logotipo react" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  
   <img align="center" alt="logotipo nodeJs" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-  <!--
-  <img align="center" alt="logotipo typescript" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-  -->
+  
   <img align="center" alt="logotipo Linux" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
 </div>
 
- 
 ##
  42 Projects🥇 
   
@@ -44,6 +44,24 @@ O currículo abrange linguagens fundamentais de programação, começando com C 
   <a href=""><img height="100" width="100" src="https://github.com/j-dutra/j-dutra/blob/main/42-pictures/born2berootm.png"></a>
  </div>
 
+#### Meus Contatos:
+
+<div style="margin: 0 20"> 
+  <a href="https://www.linkedin.com/in/jdutra-" target="_blank">
+      <img height="48" width="48" src="./img/linkedin.png">
+  </a> 
+  <a href = "mailto:jdutra.eu@gmail.com" target="_blank">
+      <img height="48" width="48" src="./img/email.png">
+  </a>
+  </a>
+  <a href="https://t.me/J_dutra" target="_blank">
+      <img height="48" width="48" src="./img/telegram.png">
+  </a>
+</div>
+
+#
+| [![João L. Dutra GitHub stats](https://github-readme-stats.vercel.app/api?username=j-dutra&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=radical)](https://github.com/j-dutra?tab=repositories) | [![João L.Dutra most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=j-dutra&layout=compact&hide_border=true&theme=radical)](https://github.com/j-dutra?tab=repositories) |
+|:-:|:-:|
 #
   
 ### Programas & Bootcamps 
