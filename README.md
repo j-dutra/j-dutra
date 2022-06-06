@@ -1,9 +1,10 @@
 ## Olá! Eu sou o João, sejam bem-vindos! 👋
 
-- Sou João, tenho 41 anos, pai de filhos lindos (amor ser pai).
+- Sou João, tenho 41 anos.
+- Pai de filhos lindos (amor ser pai).
 - Adoro cães.
 - Gosto de filmes, séries e animes.
-
+- ...................................................
 - Estudande de engenharia de software na 42 São Paulo (joluiz-d).
 - Web FullStack em construção (React, Node).
 - Atualmente programo e estudo as linguagens de programação C, e JavaScript.
