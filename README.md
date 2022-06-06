@@ -8,32 +8,23 @@
 - Estudande de engenharia de software na 42 São Paulo (joluiz-d).
 - Web FullStack em construção (React, Node).
 - Atualmente programo e estudo as linguagens de programação C, e JavaScript.
+- Conhecimento em HMTL5, CSS3, Git/Github Linux
 - Estudando React JS, e Node JS.
-- Conhecimento em Git/Github, HMTL5, CSS3, Linux
-
 
 ### Tecnologia que utilizo e estudo atualmente
 <div style="display: inline_block"><br>
-    <img align="center" alt="logotipo linguagem C" height="40" width="50"                 src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">  
-  
+    <img align="center" alt="logotipo linguagem C" height="40" width="50"                 src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="logotipo HTML5" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-  
-  <img align="center" alt="logotipo CSS3" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-  
-  <img align="center" alt="logotipo Js" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  
-  <img align="center" alt="logotipo react" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  
-  <img align="center" alt="logotipo nodeJs" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-    
+  <img align="center" alt="logotipo CSS3" height="40" width="50" 
+src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+  <img align="center" alt="logotipo Js" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> 
+  <img align="center" alt="logotipo react" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> 
+  <img align="center" alt="logotipo nodeJs" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"> 
   <img align="center" alt="logotipo Linux" height="40" width="50" 
 src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-    
   <img align="center" alt="logotipo Linux" height="40" width="50" 
 src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
-    
-  <img align="center" alt="logotipo Linux" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
-    
+  <img align="center" alt="logotipo Linux" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"> 
 </div>
 
 ##
