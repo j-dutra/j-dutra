@@ -25,8 +25,15 @@
   <img align="center" alt="logotipo react" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   
   <img align="center" alt="logotipo nodeJs" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-  
+    
+  <img align="center" alt="logotipo Linux" height="40" width="50" 
+src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+    
+  <img align="center" alt="logotipo Linux" height="40" width="50" 
+src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
+    
   <img align="center" alt="logotipo Linux" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+    
 </div>
 
 ##
