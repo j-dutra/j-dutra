@@ -39,7 +39,7 @@ Todos esse sistema é estruturado em volta de uma comunidade, desafios e gamific
 
 O currículo abrange linguagens fundamentais de programação, começando com C e extendendo para programação imperativa/funcional e orientada a objetos - algoritmos, inteligência artificial, gráficos, integração tecnológica, programação de sistema, rede e administrador do sistema, segurança e vírus, dados e base de dados e computação paralela. Existem diversos projetos e desafios disponíveis, podendo ser executados de acordo com a escolha do aluno.
     
-    Clique nas imagens para acessar os projetos:
+Clique nas imagens para acessar os projetos:
   </p>
  <div>
   <a href="https://github.com/j-dutra/Libft_42sp"><img height="100" width="100" src="https://github.com/j-dutra/j-dutra/blob/main/42-pictures/libftm.png"></a>
