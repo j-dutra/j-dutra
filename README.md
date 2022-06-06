@@ -1,7 +1,7 @@
 ## Olá! Eu sou o João, sejam bem-vindos! 👋
 
 - Sou João, tenho 41 anos.
-- Pai de filhos lindos (amor ser pai).
+- Pai de filhos lindos (amo ser pai).
 - Adoro cães.
 - Gosto de filmes, séries e animes.
 - ...................................................
