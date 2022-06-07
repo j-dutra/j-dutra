@@ -49,16 +49,16 @@ Clique nas imagens para acessar os projetos:
 
 #### Meus Contatos:
 
-<div style="margin: 0 20"> 
+<div style="display: inline_block" style="margin-right: 20"> 
   <a href="https://www.linkedin.com/in/jdutra-" target="_blank">
-      <img height="48" width="48" src="./img/linkedin.png">
+      <img height="48" width="48" src="./img/linkedin.png">Linkedin
   </a> 
   <a href = "mailto:jdutra.eu@gmail.com" target="_blank">
-      <img height="48" width="48" src="./img/email.png">
+      <img height="48" width="48" src="./img/email.png">Email
   </a>
   </a>
   <a href="https://t.me/J_dutra" target="_blank">
-      <img height="48" width="48" src="./img/telegram.png">
+      <img height="48" width="48" src="./img/telegram.png">Telegram
   </a>
 </div>
 
