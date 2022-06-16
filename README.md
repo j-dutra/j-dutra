@@ -7,8 +7,8 @@
 - Web FullStack em construção (React, Node).
 - Estudande de engenharia de software na 42, São Paulo (joluiz-d).
 
-- Atualmente programo e estudo JavaScript e C.
-- Conhecimento em HMTL5, CSS3, Git/Github Linux
+- Atualmente programo e estudo as linguagen JavaScript e C.
+- Conhecimento em HMTL5, CSS3, Git/Github, Linux
 
 - Estudando React, Next.JS, NodeJ, Sass. 
 
@@ -17,6 +17,7 @@
 - Apaixonado pela Vida.
 - Pai de filhos lindos.
 - Gosto de ler, filmes, séries e animes.
+- Desenhista nas horas vagas ...
 
 ..................................................
 
