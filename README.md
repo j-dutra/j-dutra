@@ -1,18 +1,25 @@
 ## Olá! Eu sou o João, sejam bem-vindos! 👋
 
-- Sou João, tenho 41 anos.
 - Ele / Dele.
-- Pai de filhos lindos (amo ser pai).
-- Adoro cães.
-- Gosto de filmes, séries e animes.
-- ...................................................
-- Estudande de engenharia de software na 42 São Paulo (joluiz-d).
-- Web FullStack em construção (React, Node).
-- Atualmente programo e estudo as linguagens de programação C, e JavaScript.
-- Conhecimento em HMTL5, CSS3, Git/Github Linux
-- Estudando React JS, e Node JS.
+- .................................................
 
-### Tecnologia que utilizo e estudo atualmente
+- Web FullStack em construção (React, Node).
+- Estudande de engenharia de software na 42, São Paulo (joluiz-d).
+
+- Atualmente programo e estudo JavaScript e C.
+- Conhecimento em HMTL5, CSS3, Git/Github Linux
+
+- Estudando React, Next.JS, NodeJ, Sass.
+- 
+- ..................................................
+
+- Apaixonado pela Vida.
+- Pai de filhos lindos.
+- Gosto de ler, filmes, séries e animes.
+- 
+- ...................................................
+
+### Algumas das tecnologia que utilizo e estudo atualmente
 <div style="display: inline_block"><br>
     <img align="center" alt="logotipo linguagem C" height="40" width="50"                 src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="logotipo HTML5" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
@@ -36,8 +43,6 @@ src="https://github.com/devicons/devicon/blob/master/icons/github/github-origina
     A 42 é uma escola de programação baseada em aprendizagem coletiva, onde você aprende ao mesmo tempo que ensina. Este processo é chamado de “peer-to-peer learning”, ou aprendizado entre pares, é um modelo de aprendizado no qual os participantes aprendem uns com os outros ao invés de um único professor. Isso exercita o pensamento crítico, trabalho em grupo, comunicação e senso de comunidade. Membros também avaliam uns aos outros e aprendem mais a cada feedback dado ou recebido de seus pares.
 
 Todos esse sistema é estruturado em volta de uma comunidade, desafios e gamificação. Você será desafiado a aprender por conta sem seguir um cronograma ao mesmo tempo que troca conhecimento.
-
-O currículo abrange linguagens fundamentais de programação, começando com C e extendendo para programação imperativa/funcional e orientada a objetos - algoritmos, inteligência artificial, gráficos, integração tecnológica, programação de sistema, rede e administrador do sistema, segurança e vírus, dados e base de dados e computação paralela. Existem diversos projetos e desafios disponíveis, podendo ser executados de acordo com a escolha do aluno.
     
 Clique nas imagens para acessar os projetos:
   </p>
