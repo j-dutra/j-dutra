@@ -1,6 +1,7 @@
 ## Olá! Eu sou o João, sejam bem-vindos! 👋
 
 - Ele / Dele.
+
 .................................................
 
 - Web FullStack em construção (React, Node).
@@ -10,11 +11,13 @@
 - Conhecimento em HMTL5, CSS3, Git/Github Linux
 
 - Estudando React, Next.JS, NodeJ, Sass. 
+
 ..................................................
 
 - Apaixonado pela Vida.
 - Pai de filhos lindos.
 - Gosto de ler, filmes, séries e animes.
+
 ..................................................
 
 ### Algumas das tecnologia que utilizo e estudo atualmente
