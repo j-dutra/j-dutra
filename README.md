@@ -19,8 +19,6 @@
 - Gosto de ler, filmes, séries e animes.
 - Desenhista nas horas vagas ...
 
-..................................................
-
 ### Algumas das tecnologia que utilizo e estudo atualmente
 <div style="display: inline_block"><br>
     <img align="center" alt="logotipo linguagem C" height="40" width="50"                 src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
