@@ -47,10 +47,10 @@ Todos esse sistema é estruturado em volta de uma comunidade, desafios e gamific
 Clique nas imagens para acessar os projetos:
   </p>
  <div>
-  <a href="https://github.com/j-dutra/Libft_42sp"><img height="100" width="100" src="https://github.com/j-dutra/j-dutra/blob/main/42-pictures/libftm.png"></a>
-  <a href="https://github.com/j-dutra/get_next_line_42sp"><img height="100" width="100" src="https://github.com/j-dutra/j-dutra/blob/main/42-pictures/get_next_linem.png"></a>
-  <a href="https://github.com/j-dutra/ft_printf_42sp"><img height="100" width="100" src="https://github.com/j-dutra/j-dutra/blob/main/42-pictures/ft_printfm.png"></a>
-  <a href=""><img height="100" width="100" src="https://github.com/j-dutra/j-dutra/blob/main/42-pictures/born2berootm.png"></a>
+  <a href="https://github.com/j-dutra/Libft_42sp"><img height="70" width="70" src="https://github.com/j-dutra/j-dutra/blob/main/42-pictures/libftm.png"></a>
+  <a href="https://github.com/j-dutra/get_next_line_42sp"><img height="70" width="70" src="https://github.com/j-dutra/j-dutra/blob/main/42-pictures/get_next_linem.png"></a>
+  <a href="https://github.com/j-dutra/ft_printf_42sp"><img height="70" width="70" src="https://github.com/j-dutra/j-dutra/blob/main/42-pictures/ft_printfm.png"></a>
+  <a href=""><img height="70" width="70" src="https://github.com/j-dutra/j-dutra/blob/main/42-pictures/born2berootm.png"></a>
  </div>
 
 #### Meus Contatos:
