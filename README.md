@@ -23,6 +23,21 @@ src="https://github.com/devicons/devicon/blob/master/icons/github/github-origina
   <img align="center" alt="logotipo linguagem C" height="40" width="50"                 src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
 </div>
 
+#### Meus Contatos:
+
+<div style="display: inline_block" style="margin-right: 20"> 
+  <a href="https://www.linkedin.com/in/jdutra-" target="_blank">
+      <img height="48" width="48" src="./img/linkedin.png">Linkedin
+  </a> 
+  <a href = "mailto:jdutra.eu@gmail.com" target="_blank">
+      <img height="48" width="48" src="./img/email.png">Email
+  </a>
+  </a>
+  <a href="https://t.me/J_dutra" target="_blank">
+      <img height="48" width="48" src="./img/telegram.png">Telegram
+  </a>
+</div>
+
 ##
  42 Projects🥇 
   
@@ -41,20 +56,7 @@ Clique nas imagens para acessar os projetos:
   <a href=""><img height="70" width="70" src="https://github.com/j-dutra/j-dutra/blob/main/42-pictures/born2berootm.png"></a>
  </div>
 
-#### Meus Contatos:
 
-<div style="display: inline_block" style="margin-right: 20"> 
-  <a href="https://www.linkedin.com/in/jdutra-" target="_blank">
-      <img height="48" width="48" src="./img/linkedin.png">Linkedin
-  </a> 
-  <a href = "mailto:jdutra.eu@gmail.com" target="_blank">
-      <img height="48" width="48" src="./img/email.png">Email
-  </a>
-  </a>
-  <a href="https://t.me/J_dutra" target="_blank">
-      <img height="48" width="48" src="./img/telegram.png">Telegram
-  </a>
-</div>
 
 #
 | [![João L. Dutra GitHub stats](https://github-readme-stats.vercel.app/api?username=j-dutra&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=radical)](https://github.com/j-dutra?tab=repositories) | [![João L.Dutra most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=j-dutra&layout=compact&hide_border=true&theme=radical)](https://github.com/j-dutra?tab=repositories) |
