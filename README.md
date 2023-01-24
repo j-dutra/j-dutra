@@ -4,7 +4,7 @@
 .................................................
 
 - Web FullStack em construção, com ênfase em Front-End (JavaScript, React, Node).
-- Estudande de engenharia de software na 42, São Paulo.
+- Estudande de engenharia de software.
 ..................................................
 
 ### Algumas das tecnologia que utilizo e estudo atualmente
