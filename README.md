@@ -27,14 +27,14 @@ src="https://github.com/devicons/devicon/blob/master/icons/github/github-origina
 
 <div style="display: inline_block" style="margin-right: 20"> 
   <a href="https://www.linkedin.com/in/jdutra-" target="_blank">
-      <img height="40" width="40" src="./img/linkedin.png">Linkedin
+      <img height="40" width="40" src="./img/linkedin.png">
   </a> 
   <a href = "mailto:jdutra.eu@gmail.com" target="_blank">
-      <img height="40" width="40" src="./img/email.png">Email
+      <img height="40" width="40" src="./img/email.png">
   </a>
   </a>
   <a href="https://t.me/J_dutra" target="_blank">
-      <img height="40" width="40" src="./img/telegram.png">Telegram
+      <img height="40" width="40" src="./img/telegram.png">
   </a>
 </div>
 
