@@ -23,18 +23,18 @@ src="https://github.com/devicons/devicon/blob/master/icons/github/github-origina
   <img align="center" alt="logotipo linguagem C" height="40" width="50"                 src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
 </div>
 
-#### Meus Contatos:
+## Meus Contatos:
 
 <div style="display: inline_block" style="margin-right: 20"> 
   <a href="https://www.linkedin.com/in/jdutra-" target="_blank">
-      <img height="48" width="48" src="./img/linkedin.png">Linkedin
+      <img height="40" width="40" src="./img/linkedin.png">Linkedin
   </a> 
   <a href = "mailto:jdutra.eu@gmail.com" target="_blank">
-      <img height="48" width="48" src="./img/email.png">Email
+      <img height="40" width="40" src="./img/email.png">Email
   </a>
   </a>
   <a href="https://t.me/J_dutra" target="_blank">
-      <img height="48" width="48" src="./img/telegram.png">Telegram
+      <img height="40" width="40" src="./img/telegram.png">Telegram
   </a>
 </div>
 
