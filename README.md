@@ -9,7 +9,6 @@
 
 ### Algumas das tecnologia que utilizo e estudo atualmente
 <div style="display: inline_block"><br>
-    <img align="center" alt="logotipo linguagem C" height="40" width="50"                 src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="logotipo HTML5" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img align="center" alt="logotipo CSS3" height="40" width="50" 
 src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
@@ -20,7 +19,8 @@ src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.sv
 src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" alt="logotipo Linux" height="40" width="50" 
 src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
-  <img align="center" alt="logotipo Linux" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"> 
+  <img align="center" alt="logotipo Linux" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+  <img align="center" alt="logotipo linguagem C" height="40" width="50"                 src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
 </div>
 
 ##
