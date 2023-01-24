@@ -2,12 +2,12 @@
 
 - Ele / Dele.
 
-.................................................
+..................................................................................
 
 - Web FullStack em construção, com ênfase em Front-End (JavaScript, React, Node).
 - Estudande de engenharia de software.
 
-..................................................
+..................................................................................
 
 ### Algumas das tecnologia que utilizo e estudo atualmente
 <div style="display: inline_block"><br>
@@ -25,7 +25,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/github/github-origina
   <img align="center" alt="logotipo linguagem C" height="40" width="50"                 src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
 </div>
 
-.................................................
+...............................................................................
 
 ## Meus Contatos:
 
@@ -41,6 +41,8 @@ src="https://github.com/devicons/devicon/blob/master/icons/github/github-origina
       <img height="40" width="40" src="./img/telegram.png">
   </a>
 </div>
+
+.............................................................................
 
 ##
  42 Projects🥇 
@@ -59,8 +61,8 @@ Clique nas imagens para acessar os projetos:
   <a href="https://github.com/j-dutra/ft_printf_42sp"><img height="70" width="70" src="https://github.com/j-dutra/j-dutra/blob/main/42-pictures/ft_printfm.png"></a>
   <a href=""><img height="70" width="70" src="https://github.com/j-dutra/j-dutra/blob/main/42-pictures/born2berootm.png"></a>
  </div>
-
-
+ 
+ ..........................................................................
 
 #
 | [![João L. Dutra GitHub stats](https://github-readme-stats.vercel.app/api?username=j-dutra&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=radical)](https://github.com/j-dutra?tab=repositories) | [![João L.Dutra most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=j-dutra&layout=compact&hide_border=true&theme=radical)](https://github.com/j-dutra?tab=repositories) |
