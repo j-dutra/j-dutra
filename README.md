@@ -27,7 +27,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/github/github-origina
 
 ...............................................................................
 
-## Meus Contatos:
+### Meus Contatos:
 
 <div style="display: inline_block" style="margin-right: 20"> 
   <a href="https://www.linkedin.com/in/jdutra-" target="_blank">
