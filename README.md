@@ -1,23 +1,11 @@
 ## Olá! Eu sou o João, sejam bem-vindos! 👋
 
 - Ele / Dele.
-
 .................................................
 
-- Web FullStack em construção (React, Node).
-- Estudande de engenharia de software na 42, São Paulo (joluiz-d).
-
-- Atualmente programo e estudo as linguagen JavaScript e C.
-- Conhecimento em HMTL5, CSS3, Git/Github, Linux
-
-- Estudando React, Next.JS, NodeJ, Sass. 
-
+- Web FullStack em construção, com ênfase em Front-End (JavaScript, React, Node).
+- Estudande de engenharia de software na 42, São Paulo.
 ..................................................
-
-- Apaixonado pela Vida.
-- Pai de filhos lindos.
-- Gosto de ler, filmes, séries e animes.
-- Desenhista nas horas vagas ...
 
 ### Algumas das tecnologia que utilizo e estudo atualmente
 <div style="display: inline_block"><br>
