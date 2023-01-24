@@ -1,10 +1,12 @@
 ## Olá! Eu sou o João, sejam bem-vindos! 👋
 
 - Ele / Dele.
+
 .................................................
 
 - Web FullStack em construção, com ênfase em Front-End (JavaScript, React, Node).
 - Estudande de engenharia de software.
+
 ..................................................
 
 ### Algumas das tecnologia que utilizo e estudo atualmente
@@ -22,6 +24,8 @@ src="https://github.com/devicons/devicon/blob/master/icons/github/github-origina
   <img align="center" alt="logotipo Linux" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
   <img align="center" alt="logotipo linguagem C" height="40" width="50"                 src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
 </div>
+
+.................................................
 
 ## Meus Contatos:
 
