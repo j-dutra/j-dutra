@@ -4,7 +4,7 @@
 
 .........................................................................................................................................................
 
-- Web FullStack em construção, com ênfase em Front-End (JavaScript, React, Node).
+- Web FullStack em construção, com ênfase em Front-End (JavaScript, React, NodeJS, NextJS, TypeScript).
 - Estudande de engenharia de software.
 
 .........................................................................................................................................................
