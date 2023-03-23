@@ -4,7 +4,9 @@
 
 .........................................................................................................................................................
 
-- Web FullStack em construção, com ênfase em Front-End (JavaScript, React, NodeJS, NextJS, TypeScript).
+- Desenvolvedor FullStack, com ênfase em Front-End.
+- Atualmente utilizando e estudando tecnologias do universo JavaScript (React, Node, Next.Js, Typescript)
+
 - Estudande de engenharia de software.
 
 .........................................................................................................................................................
