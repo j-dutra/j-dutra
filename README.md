@@ -2,14 +2,13 @@
 
 - Ele / Dele.
 
-.........................................................................................................................................................
+..........................................................................
 
-- Desenvolvedor FullStack, com ênfase em Front-End.
-- Atualmente utilizando e estudando tecnologias do universo JavaScript (React, Node, Next.Js, Typescript)
-
+- Desenvolvedor FullStack.
 - Estudande de engenharia de software.
+- Utilizando e estudando tecnologias do universo JavaScript (React, Node, Next.Js, Typescript)
 
-.........................................................................................................................................................
+..........................................................................
 
 ### Algumas das tecnologias que utilizo e estudo atualmente.
 <div style="display: inline_block"><br>
