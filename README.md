@@ -1,14 +1,11 @@
 ## Olá! Eu sou o João, sejam bem-vindos! 👋
 
 - Ele / Dele.
-
-..........................................................................
-
 - Desenvolvedor FullStack.
 - Estudande de engenharia de software.
 - Utilizando e estudando tecnologias do universo JavaScript (React, Node, Next.Js, Typescript)
 
-..........................................................................
+...................................................................................................
 
 ### Algumas das tecnologias que utilizo e estudo atualmente.
 <div style="display: inline_block"><br>
@@ -26,7 +23,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/github/github-origina
   <img align="center" alt="logotipo linguagem C" height="40" width="50"                 src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
 </div>
 
-.......................................................................................................................................................
+...................................................................................................
 
 ### Meus Contatos:
 
